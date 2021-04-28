@@ -47,7 +47,7 @@ HDR
 ---
 
 GLES2 is not capable of using High Dynamic Range (HDR) rendering features. If HDR is set for your
-project, or for a given viewport, Godot will still user Low Dynamic Range (LDR) which limits
+project, or for a given viewport, Godot will still use Low Dynamic Range (LDR) which limits
 viewport values to the ``0-1`` range.
 
 StandardMaterial3D features
